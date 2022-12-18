@@ -12,4 +12,7 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\urajkovic\.nuget\packages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\urajkovic\.nuget\packages\jquery\3.6.1</PkgjQuery>
+  </PropertyGroup>
 </Project>

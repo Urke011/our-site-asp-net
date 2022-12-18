@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7ds2gyN2JNMvL1Gahpy1bYVgHFb44sGt0O0HcWRyw1wl3pvvyXINxTCT8l2HYzZ9u1fpflrNfy9uE3iTxNlrag==",
+  "dgSpecHash": "e3fJ/OP14ejVpb29p2t3ARIuNzktvqHuFjLgGW9uCyUm6fMGH5CfDOKkP0mJwosCW5aDEXXNeFSKmmbJBgFGuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\our-site-asp-net.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\urajkovic\\.nuget\\packages\\jquery\\3.6.1\\jquery.3.6.1.nupkg.sha512"
+  ],
   "logs": []
 }

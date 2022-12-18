@@ -1,0 +1,386 @@
+﻿/*
+DON'T CHANGE THIS CSS.
+THIS CLASSES ARE VISIBLE FOR JCE-editor
+IF YOU NEED CHANGE SOMETHING, DO IT INSIDE "invisible_styles.css"
+*/
+/* loading Fonts for website */
+@import "../fonts/droid/droid.css";
+@import "../fonts/inter/inter.css";
+@import "../fonts/droid/droid_italic.css";
+
+/* constants */
+:root {
+    /*
+    Constants for website styling.
+    This is only block that you can use
+    for styling website with current file.
+    colors with #RGBA format (not ARGB)
+    */
+    --user-primary--color: #C5003E;
+    --user-primary--color-transparent: #C5003Ecc;
+    --user-secondary--color: #000;
+    --user-muted--color: #64686F;
+    --user-primarytext--color: #000000;
+    --user-ligthtext--color: #64686F;
+    --user-lightgraytext--color: #BBBDB7;
+    --user-inverttext--color: #ffffff;
+    --user-background--color: #ffffff;
+    --user-greyback--color: #E2E3E7;
+    --user-lightline--color: #EEEEEE;
+    --user-darkline--color: #888A8B;
+    --user-coolgray--color: #DBDBD3;
+    --font-basic: "Inter";
+    --font-special: "Droid Serif";
+    --font-default-size: calc(14px + (24 - 15) * ((100vw - 300px) / (2000 - 300)));
+    --body-margin: calc(15px + 90 * ((100vw - 300px) / (2000 - 300)));
+    --blog-article-width: min(85vw, 70ch);
+    /* DONT CHANGE VALUES OF :ROOT BELOW. THEY ARE AUTOMATICALLY CALCULATED */
+    /* DONT CHANGE VALUES OF :ROOT BELOW. THEY ARE AUTOMATICALLY CALCULATED */
+    /* DONT CHANGE VALUES OF :ROOT BELOW. THEY ARE AUTOMATICALLY CALCULATED */
+    /* Bootstrap colors override. Check Bootstrap4 documentation */
+    --primary: var(--user-primary--color);
+    --secondary: var(--user-secondary--color);
+    --light: var(--user-background--color);
+    --dark: var(--user-secondary--color);
+    /* system variables calculated for marging */
+    --body-margin-negative: calc(var(--body-margin)*(-1));
+    --body-margin-width-fix: calc(var(--body-margin)*2);
+    --standard-padding: calc(var(--body-margin)/2);
+    --standard-block-padding: var(--standard-padding);
+}
+
+/* CLASSES BELOW ARE VISIBLE FOR CONTENT MANAGERS. ARE YOU SURE THAT YOU WANT TO CHANGE IT? */
+/* CLASSES BELOW ARE VISIBLE FOR CONTENT MANAGERS. ARE YOU SURE THAT YOU WANT TO CHANGE IT? */
+.full-width {
+    margin-left: var(--body-margin-negative) !important;
+    margin-right: var(--body-margin-negative) !important;
+    width: calc(100% + var(--body-margin-width-fix)) !important;
+}
+
+.font-normal {
+    font-family: var(--font-basic) !important;
+}
+
+.font-special {
+    font-family: var(--font-special) !important;
+}
+
+.text-black {
+    color: var(--user-primarytext--color) !important;
+}
+
+.text-white {
+    color: var(--user-inverttext--color) !important;
+}
+
+.text-lightgrey {
+    color: var(--user-lightgraytext--color) !important;
+}
+
+.text-red {
+    color: var(--user-primary--color) !important;
+}
+
+.text-grey {
+    color: var(--user-muted--color) !important;
+}
+
+.text-small {
+    font-size: 75%;
+}
+
+.text-big {
+    font-size: 125%;
+}
+
+.back-red {
+    background-color: var(--user-primary--color) !important;
+    color: var(--user-inverttext--color) !important;
+}
+
+.back-dark {
+    background-color: var(--user-secondary--color) !important;
+    color: var(--user-inverttext--color) !important;
+}
+
+.back-white {
+    background-color: var(--user-background--color) !important;
+    color: var(--user-primarytext--color) !important;
+}
+
+.back-transparent-white {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: var(--user-primarytext--color) !important;
+}
+
+.back-transparent-black {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    color: var(--user-inverttext--color) !important;
+}
+
+.back-grey {
+    background-color: var(--user-greyback--color) !important;
+    color: var(--user-primarytext--color);
+}
+
+.back-coolgrey {
+    background-color: var(--user-coolgray--color) !important;
+    color: var(--user-primarytext--color);
+}
+
+.back-darkgrey {
+    background-color: var(--user-muted--color) !important;
+    color: var(--user-inverttext--color) !important;
+}
+
+.font-expanded {
+    letter-spacing: 0.12em;
+}
+
+.width-25 {
+    display: block;
+    width: 25%;
+}
+
+.width-50 {
+    display: block;
+    width: 50%;
+}
+
+.width-75 {
+    display: block;
+    width: 75%;
+}
+
+.width-85 {
+    display: block;
+    width: 85%;
+}
+
+.width-100 {
+    display: block;
+    width: 100%;
+}
+
+.block-center {
+    margin: 0 auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.overlap-top-big {
+    margin-top: calc(-48px - (96 - 44) * ((100vw - 300px) / (2000 - 300)));
+    filter: brightness(100%);
+}
+
+.overlap-top {
+    margin-top: calc(-30px - (62 - 30) * ((100vw - 300px) / (2000 - 300)));
+    filter: brightness(100%);
+}
+
+.overlap-top-small {
+    margin-top: calc(-20px - (22 - 20) * ((100vw - 300px) / (2000 - 300)));
+    filter: brightness(100%);
+}
+
+.overlap-top-xsmall {
+    margin-top: calc(-20px - (12 - 10) * ((100vw - 300px) / (2000 - 300)));
+    filter: brightness(100%);
+}
+
+.overlap-no-mobile {
+    /* used in JS */
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.standard-padding {
+    padding: var(--standard-block-padding);
+}
+
+img.cover {
+    object-fit: cover;
+}
+
+img.darker {
+    filter: brightness(60%);
+    background-color: var(--user-secondary--color) !important;
+}
+
+img.round {
+    border-radius: 50%;
+}
+
+table.adaptive {
+    /*only to display it in JCE editor*/
+}
+
+table.gallery {
+    /*only to display it in JCE editor*/
+}
+
+table.m-rotator {
+    /*only to display it in JCE editor*/
+}
+
+table.fixed-size {
+    table-layout: fixed;
+}
+
+a.fixed-size {
+    /*only for links with image*/
+}
+
+table.internal-borders {
+    /*only to display it in JCE editor*/
+}
+
+.btn {
+    outline: none !important;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: 0.45rem .95rem;
+    border-radius: 0px !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+
+.btn-outline {
+    outline: none !important;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 2px solid var(--user-darkline--color);
+    color: var(--user-primarytext--color);
+    padding: 0.45rem .95rem;
+    border-radius: 0px !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+
+.shadow {
+    box-shadow: 0 3px 8px 0 rgba(128, 128, 128, 0.25);
+    -webkit-box-shadow: 0 3px 8px 0 rgba(128, 128, 128, 0.25);
+}
+
+/*
+To make JCE editor looks like real website contet, we need to add some basic tags inside this file.
+Tags are invisible for style selectors.
+
+To make JCE editor looks like real website contet, we need to add some basic tags inside this file.
+Tags are invisible for style selectors.
+
+To make JCE editor looks like real website contet, we need to add some basic tags inside this file.
+Tags are invisible for style selectors.
+
+To make JCE editor looks like real website contet, we need to add some basic tags inside this file.
+Tags are invisible for style selectors.
+*/
+body {
+    /*padding-top: 5.0rem;*/
+    padding-bottom: 0rem;
+    /* basic padding for content defined in main.mathema-content inside invisible_styles.css */
+    margin: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    color: var(--user-primarytext--color);
+    font-family: var(--font-basic), Verdana, Helvetica, Sans-Serif !important;
+    font-size: var(--font-default-size);
+    background-color: var(--user-background--color);
+}
+
+/* <P> create too much problems with JCE editor without 0 margins*/
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+    color: var(--user-primary--color) !important;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    a[back] {
+        background-color: var(--user-greyback--color) !important;
+    }
+
+h1, h2, h3 {
+    font-family: var(--font-special) !important;
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: calc(32px + (85 - 28) * ((100vw - 300px) / (2000 - 300)));
+    line-height: calc(40px + (92 - 36) * ((100vw - 300px) / (2000 - 300)));
+}
+
+h2 {
+    font-size: calc(24px + (54 - 24) * ((100vw - 300px) / (2000 - 300)));
+    line-height: calc(32px + (62 - 32) * ((100vw - 300px) / (2000 - 300)));
+}
+
+h3 {
+    font-size: calc(18px + (36 - 18) * ((100vw - 300px) / (2000 - 300)));
+    line-height: calc(24px + (42 - 24) * ((100vw - 300px) / (2000 - 300)));
+}
+
+h4 {
+    font-size: calc(16px + (24 - 15) * ((100vw - 300px) / (2000 - 300)));
+    line-height: calc(22px + (32 - 24) * ((100vw - 300px) / (2000 - 300)));
+}
+
+h5 {
+    font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (2000 - 300)));
+    line-height: calc(20px + (22 - 20) * ((100vw - 300px) / (2000 - 300)));
+}
+
+h6 {
+    font-size: calc(16px + (18 - 16) * ((100vw - 800px) / (2000 - 800)));
+    line-height: calc(20px + (24 - 20) * ((100vw - 800px) / (2000 - 800)));
+}
+
+@media screen and (max-width: 800px) {
+    h1 {
+        font-size: calc(27px + (85 - 28) * ((100vw - 300px) / (2000 - 300)));
+        line-height: calc(35px + (92 - 36) * ((100vw - 300px) / (2000 - 300)));
+    }
+
+    h2 {
+        font-size: calc(21px + (54 - 24) * ((100vw - 300px) / (2000 - 300)));
+        line-height: calc(27px + (62 - 32) * ((100vw - 300px) / (2000 - 300)));
+    }
+
+    h3 {
+        font-size: calc(18px + (36 - 18) * ((100vw - 300px) / (2000 - 300)));
+        line-height: calc(23px + (42 - 24) * ((100vw - 300px) / (2000 - 300)));
+    }
+
+    h4 {
+        font-size: calc(17px + (24 - 15) * ((100vw - 300px) / (2000 - 300)));
+        line-height: calc(22px + (32 - 24) * ((100vw - 300px) / (2000 - 300)));
+    }
+
+    h5 {
+        font-size: calc(16px + (18 - 14) * ((100vw - 300px) / (2000 - 300)));
+        line-height: calc(20px + (22 - 20) * ((100vw - 300px) / (2000 - 300)));
+    }
+
+    h6 {
+        font-size: calc(15px + (18 - 16) * ((100vw - 800px) / (2000 - 800)));
+        line-height: calc(20px + (24 - 20) * ((100vw - 800px) / (2000 - 800)));
+    }
+
+    body {
+        /*padding-top: 4.4rem;*/
+    }
+}
