@@ -1,3 +1,871 @@
 nav img{
     width: 5rem;
 }
+/* file for styling */
+html {
+    scroll-behavior: smooth;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+header.mathema, footer.mathema {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+footer.mathema {
+    margin-top: 1em !important;
+}
+
+main.mathema-content {
+    width: 100%;
+    display: block;
+    padding-left: var(--body-margin) !important;
+    padding-right: var(--body-margin) !important;
+}
+
+.page-header {
+    margin-top: 1em !important;
+}
+
+.category-desc > img {
+    margin-left: var(--body-margin-negative);
+    margin-right: var(--body-margin-negative);
+    width: calc(100% + var(--body-margin-width-fix));
+    height: calc(110px + (500) * ((100vw - 300px) / (3000)));
+    object-fit: cover;
+}
+
+.item-image > img {
+    margin-left: var(--body-margin-negative);
+    margin-right: var(--body-margin-negative);
+    width: calc(100% + var(--body-margin-width-fix));
+    height: calc(130px + (650) * ((100vw - 300px) / (4000)));
+    object-fit: cover;
+    background-color: var(--user-coolgray--color);
+}
+
+.item-image > a > img {
+    width: 65%;
+    height: calc(50px + (500) * ((100vw - 300px) / (3000)));
+    object-fit: cover;
+}
+
+/* navigation */
+a.nav-link {
+    color: rgba(0, 0, 0, 0.9);
+    font-weight: bold;
+    text-align: right;
+    padding-top: 12pt !important;
+    padding-bottom: 12pt !important;
+    padding-left: 15pt;
+    padding-right: 15pt;
+    color: var(--user-muted--color) !important;
+    font-size: calc(14px + (19 - 15) * ((100vw - 300px) / (2000 - 300))) !important;
+}
+
+#main_menu_navigation a.nav-link {
+    padding-left: 25pt !important;
+    padding-right: 9pt !important;
+    padding-top: 12pt !important;
+    padding-bottom: 12pt !important;
+}
+
+a.nav-link:hover {
+    text-decoration: underline !important;
+}
+
+.active a.nav-link {
+    color: var(--user-primary--color) !important;
+    font-weight: bold;
+}
+
+.nav-item a {
+    text-decoration: none !important;
+}
+
+    .nav-item a.active {
+        color: var(--user-primary--color) !important;
+    }
+
+#main-logo {
+    height: 53px;
+}
+
+#main-burger {
+    height: 25px;
+}
+
+tr.shadow {
+    display: block;
+}
+
+.btn:hover {
+    box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.35);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.35);
+}
+
+.btn-outline:hover {
+    box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.35);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.35);
+}
+
+#scroll-top {
+    position: fixed;
+    bottom: 20pt;
+    right: 26pt;
+    font-weight: bold;
+    font-size: calc(18px + (19 - 15) * ((100vw - 300px) / (2000 - 300)));
+    z-index: 1000;
+}
+
+.mathema-image-carousel, .carousel-control-next, .carousel-control-prev {
+    height: calc(190px + (1200) * ((100vw - 300px) / (3000)));
+}
+
+.carousel-indicators {
+    margin-left: var(--body-margin);
+    margin-right: var(--body-margin);
+}
+
+    .carousel-indicators li {
+        cursor: pointer;
+        height: 6px;
+        width: 100px;
+        margin: 0 5px;
+        background-color: #989aa5;
+        border-radius: 50px;
+        display: inline-block;
+        margin-right: 3px;
+        margin-left: 3px;
+        text-indent: -999px;
+    }
+
+    .carousel-indicators .active {
+        background-color: var(--user-primary--color);
+    }
+
+.carousel-caption {
+    position: absolute;
+    bottom: 39%;
+    width: 39%;
+    left: 7%;
+    text-align: left;
+    padding: calc(8px + (500) * ((100vw - 300px) / (29000 - 300))) !important;
+}
+
+    .carousel-caption h6 {
+        font-family: var(--font-basic) !important;
+        font-size: calc(5px + (340) * ((100vw - 300px) / (29000 - 300))) !important;
+        line-height: calc(6px + (340) * ((100vw - 300px) / (29000 - 300))) !important;
+        text-transform: uppercase !important;
+        font-weight: 100;
+        letter-spacing: 0.2em;
+        color: var(--user-muted--color) !important;
+    }
+
+    .carousel-caption a h3 {
+        color: var(--user-primarytext--color);
+        font-size: calc(10px + (440) * ((100vw - 300px) / (29000 - 300))) !important;
+        line-height: calc(12px + (440) * ((100vw - 300px) / (29000 - 300))) !important;
+        margin: 0px !important;
+    }
+
+    .carousel-caption a:hover {
+        text-decoration: none !important;
+    }
+
+        .carousel-caption a:hover h3 {
+            color: var(--user-primary--color) !important;
+        }
+
+.readmore .btn {
+    display: inline-block !important;
+    padding: 10pt 20pt 10pt 20pt;
+    background-color: var(--user-primary--color) !important;
+    color: var(--user-inverttext--color) !important;
+    width: auto;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+.internal-borders {
+    border-style: hidden !important;
+}
+
+    .internal-borders > thead > tr > th,
+    .internal-borders > tbody > tr > th,
+    .internal-borders > tfoot > tr > th,
+    .internal-borders > thead > tr > td,
+    .internal-borders > tbody > tr > td,
+    .internal-borders > tfoot > tr > td {
+        border-bottom: 1px solid var(--user-lightline--color);
+        border-right: 1px solid var(--user-lightline--color);
+        margin: 0px;
+        padding: 30px;
+    }
+
+@media screen and (max-width: 1024px) {
+    table.adaptive, table.adaptive thead, table.adaptive tbody, table.adaptive th, table.adaptive td, table.adaptive tr {
+        display: block;
+    }
+
+        table.adaptive th, table.adaptive td {
+            width: 100% !important;
+        }
+
+    table.working-process td {
+        width: 100%;
+        border-right: none !important;
+        border-left: none !important;
+        border-top: none !important;
+    }
+
+    .carousel-caption {
+        position: static;
+        width: 100%;
+        height: calc((16px + (440) * ((100vw - 300px) / (29000 - 300)))*4);
+        text-align: left;
+        padding-top: calc(8px + (500) * ((100vw - 300px) / (29000 - 300))) !important;
+        padding-bottom: 0px !important;
+        padding-left: var(--body-margin) !important;
+        margin: 0px !important;
+    }
+
+        .carousel-caption h6 {
+            font-size: calc(13px + (340) * ((100vw - 300px) / (29000 - 300))) !important;
+            line-height: calc(14px + (340) * ((100vw - 300px) / (29000 - 300))) !important;
+        }
+
+        .carousel-caption a h3 {
+            font-size: calc(14px + (440) * ((100vw - 300px) / (29000 - 300))) !important;
+            line-height: calc(16px + (440) * ((100vw - 300px) / (29000 - 300))) !important;
+        }
+
+    #main_menu_navigation a.nav-link {
+        padding-left: 10pt !important;
+        padding-right: 9pt !important;
+        padding-top: 10pt !important;
+        padding-bottom: 10pt !important;
+    }
+
+    #main-logo {
+        height: 40px;
+    }
+
+    #main-burger {
+        height: 21px;
+    }
+
+    .width-75 {
+        display: block;
+        width: 85%;
+    }
+
+    .width-85 {
+        display: block;
+        width: 90%;
+    }
+}
+
+a.mathema-jobs {
+    display: inline-block !important;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: var(--user-primary--color) !important;
+    color: var(--user-inverttext--color) !important;
+    width: auto;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+    a.mathema-jobs:hover {
+        background-color: var(--user-muted--color) !important;
+        color: var(--user-inverttext--color) !important;
+        width: auto;
+    }
+
+.collapsed > table img.imgUp {
+    display: none;
+}
+
+:not(.collapsed) > table img.imgUp {
+    display: inline-block;
+}
+
+.collapsed > table img.imgDown {
+    display: inline-block;
+}
+
+:not(.collapsed) > table img.imgDown {
+    display: none;
+}
+
+.gallery img {
+    object-fit: cover;
+    cursor: pointer;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.m-rotator td img {
+    object-fit: cover;
+}
+
+.m-rotator h1, .m-rotator h2, .m-rotator h3, .m-rotator h4, .m-rotator h4, .m-rotator p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.fade-in {
+    opacity: 1;
+    animation-name: fadeInOpacity;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    animation-duration: 0.15s;
+}
+
+@keyframes fadeInOpacity {
+    0% {
+        opacity: 0.8;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.article-info .published {
+    color: var(--user-ligthtext--color);
+    font-size: 75%;
+}
+
+.card-title {
+    margin-bottom: 0px;
+}
+
+.mathema-one-city .row {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 1em;
+}
+
+.city-list.first {
+    margin-top: 5em;
+}
+
+.city-list .page-header, .city-list .mathema-job-container, .city-list .category-desc {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 10pt;
+}
+
+.mathema-job-container a {
+    color: var(--user-primarytext--color) !important;
+}
+
+.city-list {
+    margin-top: 3em;
+}
+
+    .city-list .category-desc {
+        margin-top: 1em;
+    }
+
+.text-black a {
+    color: var(--user-primarytext--color) !important;
+}
+
+.text-white a {
+    color: var(--user-inverttext--color) !important;
+}
+
+.text-red a {
+    color: var(--user-primary--color) !important;
+}
+
+.text-grey a {
+    color: var(--user-muted--color) !important;
+}
+
+a.contact_white {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: inline-block;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    padding-left: 14pt;
+    padding-right: 14pt;
+    background-color: var(--user-background--color) !important;
+    color: var(--user-primarytext--color) !important;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+
+.body-class-blogs-mathema .no-full-image {
+    width: var(--blog-article-width);
+    background-color: var(--user-background--color) !important;
+    color: var(--user-primarytext--color) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.body-class-blogs-mathema .with-full-image {
+    width: var(--blog-article-width);
+    margin-top: calc(-50px - 2*(62 - 30) * ((100vw - 300px) / (2000 - 300)));
+    position: relative;
+    background-color: var(--user-background--color) !important;
+    color: var(--user-primarytext--color) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: calc(var(--standard-block-padding)*2);
+    padding-right: calc(var(--standard-block-padding)*2);
+    padding-top: calc(var(--standard-block-padding));
+}
+
+.with-full-image {
+    margin-top: calc(-50px - 2*(62 - 30) * ((100vw - 300px) / (2000 - 300)));
+    position: relative;
+    background-color: var(--user-background--color) !important;
+    color: var(--user-primarytext--color) !important;
+    padding-left: calc(var(--standard-block-padding)*2);
+    padding-right: calc(var(--standard-block-padding)*2);
+    padding-top: calc(var(--standard-block-padding));
+}
+
+    .with-full-image .page-header {
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+    }
+
+.items-leading .custom-jobs-right-info-block, .custom-jobs-right-info-block {
+    display: none;
+}
+
+.articleBody .custom-jobs-right-info-block {
+    padding: 1.5em;
+    margin-left: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 2px solid var(--user-lightline--color);
+    display: block;
+    width: 30%;
+    float: right;
+    background-color: var(--user-background--color);
+}
+
+.body-class-jobs-mathema main.mathema-content nav ol li:last-child {
+    display: none;
+}
+
+.articleBody ul {
+    list-style: none;
+    /* Remove default bullets */
+    padding-left: calc(var(--font-default-size)*1.5);
+}
+
+    .articleBody ul li::before {
+        content: "\25CF";
+        /* Add content: \2022 is the CSS Code/unicode for a bullet */
+        font-size: 15px;
+        color: var(--user-secondary--color);
+        /* Change the color */
+        font-weight: bold;
+        /* If you want it to be bold */
+        display: inline-block;
+        /* Needed to add space between the bullet and the text */
+        width: 1em;
+        /* Also needed for space (tweak if needed) */
+        margin-left: -1em;
+        /* Also needed for space (tweak if needed) */
+        vertical-align: middle;
+    }
+
+.carousel-control-prev, .carousel-control-next {
+    width: 6%;
+}
+
+.footer-header-fix {
+    text-align: left;
+}
+
+.contact-image-main {
+    width: 125px;
+    height: 125px;
+}
+
+.contact-image-container {
+    vertical-align: top;
+}
+
+.contact-table {
+    margin-left: 25%;
+}
+
+@media screen and (max-width: 1024px) {
+    table.adaptive.contact-table {
+        margin-left: 0%;
+        margin-right: auto;
+    }
+
+    .mathema-contack-block table td {
+        text-align: center;
+    }
+
+    .footer-header-fix {
+        text-align: center;
+        padding: 15px;
+    }
+
+    .carousel-control-prev, .carousel-control-next {
+        width: 15%;
+    }
+
+    .articleBody .custom-jobs-right-info-block {
+        padding: 1em;
+        margin: 1em;
+        display: block;
+        float: none;
+        width: 100%;
+        border-left: 0px solid var(--user-lightline--color);
+        border-right: 0px solid var(--user-lightline--color);
+        border-top: 0px solid var(--user-lightline--color);
+        border-bottom: 1px solid var(--user-lightline--color);
+    }
+}
+
+.mathema-subcategory-subtitle {
+    font-size: 75%;
+    color: var(--user-muted--color) !important;
+    margin-top: 1em;
+    padding-left: 3em;
+    padding-right: 2em;
+    padding-top: 10pt;
+}
+
+.mathema-category-list-subtitle {
+    padding-top: 1em;
+}
+
+.mathema-category-list-title {
+    padding-top: 30pt;
+}
+
+.fix-padding-left {
+    margin-left: calc((-1)*var(--standard-block-padding));
+}
+
+img.text-red {
+    fill: var(--user-primary--color) !important;
+}
+
+.overlap-top-footer {
+    margin-top: calc((-7.1)*var(--body-margin));
+    margin-left: calc((0.5)*var(--body-margin));
+    margin-bottom: calc((5.0)*var(--body-margin));
+}
+
+.with-full-image .full-width {
+    margin-left: calc(var(--standard-block-padding)*(-4)) !important;
+    margin-right: calc(var(--standard-block-padding)*(-4)) !important;
+    width: calc(100% + var(--body-margin-width-fix)+var(--standard-block-padding)*(4)) !important;
+}
+
+.body-class-blogs-mathema .full-width {
+    width: calc(100% + var(--body-margin-width-fix)+var(--standard-block-padding)*(4)) !important;
+    margin-left: calc(((100vw - var(--blog-article-width))*(-0.5)) - (var(--standard-block-padding)*(1.65))) !important;
+    margin-right: calc(((100vw - var(--blog-article-width))*(-0.5)) - (var(--standard-block-padding)*(1.65))) !important;
+}
+
+.blog-blogs-mathema .page-header {
+    margin-top: 3em !important;
+}
+
+.pagination {
+    margin-top: 20pt;
+}
+
+.body-class-contacts .mathema-contact-container {
+    padding: 2pt;
+}
+
+.contact-description-info {
+    padding: var(--standard-block-padding);
+}
+
+.contact-image-info {
+    padding-top: var(--standard-block-padding);
+    padding-bottom: var(--standard-block-padding);
+}
+
+.mathema-contact-details-image {
+    max-height: 450pt;
+}
+
+.mathema-contact-role {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+}
+
+.mathema-contact-article-intro-image {
+    max-height: 200pt;
+}
+
+.mathema-contact-article-block {
+    padding: 0pt;
+}
+
+.mathema-card-title {
+    padding: calc(4px + var(--standard-block-padding)/3) !important;
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+
+.mathema-last-article-container .mathema-card-title .card-title a {
+    font-family: var(--font-special) !important;
+    text-decoration: none !important;
+    color: var(--user-primarytext--color) !important;
+}
+
+.mathema-contacts-articles {
+    padding-top: 20pt;
+}
+
+.mathema-image-text-container {
+    position: relative;
+    text-align: center;
+    color: var(--user-background--color);
+}
+
+    .mathema-image-text-container .image-overlap-text {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        padding: calc(var(--standard-block-padding)/20);
+        text-align: center;
+        width: 100%;
+        background-color: var(--user-primary--color-transparent);
+        color: var(--user-inverttext--color);
+    }
+
+.mathema-contact-name {
+    font-weight: bold;
+    font-size: 90%;
+    white-space: nowrap;
+}
+
+.mathema-contact-position {
+    font-size: 85%;
+    white-space: nowrap;
+}
+
+.mathema-last-blog-articles {
+    margin: 0 auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100%;
+}
+
+.mathema-last-articles-title {
+    margin-bottom: var(--standard-block-padding);
+}
+
+.mathema-last-article-intro-image {
+    min-height: 100pt;
+}
+
+.mathema-last-article-block {
+    overflow: hidden;
+}
+
+.mathema-contact-article-intro-image {
+    min-height: 100pt;
+}
+
+.mathema-blogcards-padding {
+    padding: calc(var(--standard-block-padding)/4) !important;
+}
+
+.mathema-link-with-background {
+    display: inline-block;
+    height: auto;
+    background-color: var(--user-greyback--color);
+    background-position: center;
+    background-size: cover;
+    padding: calc(var(--standard-block-padding)/3) !important;
+    width: 100%;
+}
+
+.full-width .mathema-link-with-background {
+    padding-right: calc(var(--standard-block-padding) * 1.2) !important;
+}
+
+.mathema-link-child-block {
+    padding: calc(var(--standard-block-padding)/3) !important;
+    overflow: hidden;
+    max-width: 30%;
+    border-radius: 0px !important;
+}
+
+.mathema-link-with-background:hover .mathema-link-block-title, .mathema-link-with-background:hover .mathema-link-block-content {
+    text-decoration: underline !important;
+}
+
+.mathema-link-with-background:hover .mathema-link-block-title {
+    color: var(--user-primary--color) !important;
+}
+
+a.fixed-size > div.mathema-link-with-background {
+    height: calc(var(--font-default-size) * 10.0);
+}
+
+.mathema-blog-visit-button {
+    margin-top: var(--font-default-size);
+}
+
+.last-blog-title-margin {
+    margin-top: auto;
+}
+
+.teams_right_block {
+    display: flex;
+    flex-direction: column;
+    padding: 0 !important;
+}
+
+.no-gutters {
+    display: flex;
+}
+
+.teams-list-image-size {
+    height: calc(var(--font-default-size) * 17.0);
+}
+
+#main_menu_navigation {
+    height: 80px;
+}
+
+.navbar-slide-content {
+    position: fixed;
+    right: 0;
+    top: 76px;
+    z-index: 1030;
+    box-shadow: 0 3px 8px 0 rgb(128 128 128 / 25%);
+    -webkit-box-shadow: 0 8px 6px 0 rgb(128 128 128 / 25%);
+}
+
+.navbar-slide-content-item {
+    width: fit-content;
+}
+
+    .navbar-slide-content-item ul li {
+        padding-left: 25pt !important;
+        padding-right: 9pt !important;
+    }
+
+.job-content-position-title {
+    color: var(--user-primary--color);
+}
+
+.job-content h3 {
+    color: var(--user-primary--color) !important;
+}
+
+.job-content h2 + p {
+    color: var(--user-primary--color) !important;
+}
+
+.actual-jobs-link {
+    width: fit-content;
+    background-color: var(--user-primary--color);
+    padding: 0.3em;
+    border-radius: 10px;
+}
+
+    .actual-jobs-link a {
+        color: var(--user-background--color) !important;
+        font-weight: bolder;
+        text-decoration: none;
+        font-size: 1.2em;
+    }
+
+    .actual-jobs-link img {
+        width: 1.5em;
+        height: 1.5em;
+        filter: brightness(0) invert(1);
+        font-size: 1.35em;
+    }
+
+.karriere-section {
+    position: relative;
+}
+
+.karriere-section-back-img img {
+    width: 100%;
+    height: 19em;
+    object-fit: cover;
+    filter: brightness(40%);
+}
+
+.karriere-section-content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+    .karriere-section-content h2 {
+        color: var(--user-inverttext--color);
+        line-height: calc(1.3em + (62 - 32) * ((100vw - 300px) / (2000 - 300)));
+    }
+
+.list-jobs {
+    width: 100% !important;
+    padding-left: 2em;
+    padding-right: 1em;
+}
+
+    .list-jobs li {
+        margin-bottom: 0.3em;
+        border: 3px solid rgb(232,232,232) !important;
+        position: relative;
+        text-indent: -3.3em;
+        padding-left: 3.2em;
+    }
+
+        .list-jobs li img {
+            width: 2.3em;
+            margin-left: 0.5em;
+        }
+
+        .list-jobs li a {
+            width: 100%;
+            height: 100%;
+            margin-left: 0.4em;
+            color: var(--user-secondary--color) !important;
+            font-size: 1.4em;
+            vertical-align: middle;
+            overflow-wrap: break-word;
+        }
+
+.job-town-title {
+    color: var(--user-primary--color) !important;
+}
+/* in job list all <li> are clickable an hover */
+.clickable-element {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.job-content ul li > div {
+    display: inline;
+}

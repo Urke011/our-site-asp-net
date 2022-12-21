@@ -11,16 +11,28 @@ build_property.RootNamespace = our_site_asp_net
 build_property.ProjectDir = C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\urajkovic\Desktop\c#app\our-site-asp-net
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Datenschutz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRlbnNjaHV0ei5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Jobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Shared/Error.cshtml]
