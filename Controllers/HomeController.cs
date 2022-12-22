@@ -7,7 +7,8 @@ namespace our_site_asp_net.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        //ne zaboravi static jel se objek brise zbog nepostojanja baze
+        private static  List<EmployeProfile> profile = new List<EmployeProfile>();
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -32,7 +33,19 @@ namespace our_site_asp_net.Controllers
         }
         public IActionResult Team()
         {
-            return View();
+            return View(profile);
+        }
+        public IActionResult CreateNewProfile()
+        {
+             
+            EmployeProfile profile = new EmployeProfile();
+            return View(profile);
+        }
+        public IActionResult CreateNewProfileForm(EmployeProfile profileNewModel)
+        {
+            profile.Add(profileNewModel);
+            // return View("Team");
+            return RedirectToAction(nameof(Team));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
