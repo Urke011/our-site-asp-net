@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿/*
+using Microsoft.EntityFrameworkCore;
 using our_site_asp_net.Models;
 
 
@@ -13,3 +14,4 @@ namespace our_site_asp_net.Data
         }
     } 
 }
+*/

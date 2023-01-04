@@ -1,11 +1,7 @@
-﻿
-
-namespace our_site_asp_net.Models
+﻿namespace our_site_asp_net.Models
 {
-    public class EmployeProfile
+    public class AddTeamEmployeeModelView
     {
-      
-        public Guid id { get; set; }
         public string employeName { get; set; }
 
         public string employeImage { get; set; }
