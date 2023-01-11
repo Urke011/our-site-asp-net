@@ -1,0 +1,41 @@
+﻿@model List<our_site_asp_net.Models.EmployeProfile>
+
+    <h1>Show team</h1>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+             <th>
+                employeName
+            </th>
+             <th>
+                employeImage
+            </th>
+             <th>
+                position
+            </th>
+             <th>
+                schwerpunkte
+            </th>
+             <th>
+               askMyanyThing
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach(var employe in Model)
+        {
+            <tr>
+                <td>@employe.id</td>
+                 <td>@employe.employeName</td>
+                  <td>@employe.employeImage</td>
+                   <td>@employe.position</td>
+                    <td>@employe.schwerpunkte</td>
+                     <td>@employe.askMyanyThing</td>
+            </tr>
+        }
+        </tbody>
+    </table>

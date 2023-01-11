@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using our_site_asp_net.Models;
 namespace our_site_asp_net.Controllers
 {
@@ -10,6 +11,13 @@ namespace our_site_asp_net.Controllers
         {
             this.peopleContext = peopleContext;
         }
+        //[HttpPost]//akcija za prikaz svih clanova tima
+        public async Task<IActionResult> Index()
+        {
+          var employees =  await  peopleContext.people.ToListAsync();
+            return View(employees);
+        }
+
         [HttpGet]
         public IActionResult Add()
         {

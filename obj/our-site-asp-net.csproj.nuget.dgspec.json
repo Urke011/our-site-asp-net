@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\our-site-asp-net.csproj": {}
+    "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\our-site-asp-net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\our-site-asp-net.csproj": {
+    "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\our-site-asp-net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\our-site-asp-net.csproj",
+        "projectUniqueName": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\our-site-asp-net.csproj",
         "projectName": "our-site-asp-net",
-        "projectPath": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\our-site-asp-net.csproj",
-        "packagesPath": "C:\\Users\\URAJKOVIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\obj\\",
+        "projectPath": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\our-site-asp-net.csproj",
+        "packagesPath": "C:\\Users\\urajkovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\URAJKOVIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\urajkovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
