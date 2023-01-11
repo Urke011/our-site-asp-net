@@ -1,0 +1,37 @@
+﻿@model our_site_asp_net.Models.UpdateViewModel;
+
+<h1>Edit Employee</h1>  
+ 
+<form  action="View" method="POST">
+    <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Id</label>
+    <input asp-for="id" type="text" readonly>
+    <div class="form-text">Id</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Name</label>
+    <input asp-for="employeName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="employee-name" class="form-text">Employee name</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Employe Image</label>
+    <input asp-for="employeImage" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="Employe-Image" class="form-text">Employe Image test string</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Position</label>
+    <input asp-for="position" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="employe-position" class="form-text">Employe position</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Schwerpunkte</label>
+    <input asp-for="schwerpunkte" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="employe-schwerpunkte" class="form-text">Employe Schwerpunkte</div>
+  </div>
+   <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Ask me anything</label>
+    <input asp-for="askMyanyThing" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="question" class="form-text">Ask me anything</div>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

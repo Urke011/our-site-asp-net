@@ -37,7 +37,43 @@ namespace our_site_asp_net.Controllers
             };
             await peopleContext.people.AddAsync(Employe);
             await peopleContext.SaveChangesAsync();
-            return RedirectToAction("Add");
+            return RedirectToAction("Index");
+        }
+        [HttpGet]
+        public async Task <IActionResult> View(Guid id)
+        {
+           var employee = await peopleContext.people.FirstOrDefaultAsync(x=>x.id == id);
+            if(employee != null)
+            {
+                var viewModel = new UpdateViewModel()
+                {
+                    id = employee.id,
+                    employeName = employee.employeName,
+                    employeImage = employee.employeImage,
+                    position = employee.position,
+                    schwerpunkte = employee.schwerpunkte,
+                    askMyanyThing = employee.askMyanyThing
+                };
+                return await Task.Run(()=>View("View",viewModel));
+            }
+           
+         return  RedirectToAction("Index");
+        }
+        //update
+        public async Task<IActionResult> View(UpdateViewModel model)
+        {
+            var employee = await peopleContext.people.FindAsync(model.id);
+            if(employee != null)
+            {
+                employee.employeName = model.employeName;
+                employee.employeImage = model.employeImage;
+                employee.position = model.position;
+                employee.schwerpunkte = model.schwerpunkte;
+                employee.askMyanyThing = model.askMyanyThing;
+              await  peopleContext.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
         }
     }
 }
