@@ -75,5 +75,18 @@ namespace our_site_asp_net.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(UpdateViewModel model)
+        {
+            var employee = await peopleContext.people.FindAsync(model.id);
+            if (employee != null)
+            {
+                peopleContext.people.Remove(employee);
+                await peopleContext.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
