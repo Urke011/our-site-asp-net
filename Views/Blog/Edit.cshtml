@@ -1,0 +1,35 @@
+﻿@model our_site_asp_net.Models.Blog
+
+
+<h1>Edit Blog</h1>  
+ 
+<form  action="Edit" method="POST">
+      <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Id</label>
+    <input asp-for="Id" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name" readonly>
+    <div id="employee-name" class="form-text">Id</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Title</label>
+    <input asp-for="Title" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="employee-name" class="form-text">Title</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Author</label>
+    <input asp-for="Author" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="Employe-Image" class="form-text">Author</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Date</label>
+    <input asp-for="Date" type="date" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="employe-position" class="form-text">Date</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Blog Description</label>
+    <input asp-for="TextDescription" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
+    <div id="employe-schwerpunkte" class="form-text">Blog Description</div>
+  </div>
+   
+  <button type="submit" class="btn btn-primary">Edit</button>
+  <button type="submit" class="btn btn-danger" asp-controller="Blog" asp-action="Delete">Delete Blog item</button>
+</form>

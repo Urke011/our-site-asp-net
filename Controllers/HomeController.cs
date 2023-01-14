@@ -23,10 +23,7 @@ namespace our_site_asp_net.Controllers
         {
             return View();
         }
-        public IActionResult Blog()
-        {
-            return View();
-        }
+     
         public IActionResult Jobs()
         {
             return View();

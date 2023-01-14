@@ -1,0 +1,18 @@
+﻿@model List<our_site_asp_net.Models.Blog>
+
+    <h3>Blog list</h3>
+@foreach(var blog in Model)
+{
+    <div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">TITLE: @blog.Title</h5>
+    <h6 class="card-subtitle mb-2 text-muted">AUTHOR: @blog.Author</h6>
+    <span>DATE: @blog.Date</span>
+    <p class="card-text">BLOG DESC: @blog.TextDescription</p>
+  </div>
+</div>
+<div>
+    <a href="Edit/@blog.Id">Edit</a>
+</div>
+<hr />
+}

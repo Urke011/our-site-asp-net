@@ -7,7 +7,7 @@ namespace our_site_asp_net.Controllers
     {
         private readonly PeopleContext peopleContext;
 
-        public EmployeeController(PeopleContext peopleContext)
+        public EmployeeController(PeopleContext peopleContext)//ctrl . za stvaranje polja 
         {
             this.peopleContext = peopleContext;
         }

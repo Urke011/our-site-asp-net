@@ -11,7 +11,7 @@ namespace our_site_asp_net.Models
         }
         public DbSet<EmployeProfile> people { get; set; }
 
-
+        public DbSet<Blog> Blogs { get; set; }
     }
 
 }
