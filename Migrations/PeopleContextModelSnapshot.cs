@@ -47,24 +47,26 @@ namespace our_site_asp_net.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("blogs");
+                    b.ToTable("Blogs");
                 });
 
             modelBuilder.Entity("our_site_asp_net.Models.EmployeProfile", b =>
                 {
-                    b.Property<Guid>("id")
+                    b.Property<int>("id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
 
                     b.Property<string>("askMyanyThing")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("employeImage")
+                    b.Property<string>("employeName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("employeName")
+                    b.Property<string>("photoUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

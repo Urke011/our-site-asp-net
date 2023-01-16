@@ -1,8 +1,8 @@
-﻿@model our_site_asp_net.Models.UpdateViewModel;
+﻿@model our_site_asp_net.Models.EmployeProfile;
 
 <h1>Edit Employee</h1>  
  
-<form  action="View" method="POST">
+<form  action="View" method="POST"  enctype='multipart/form-data'>
     <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Id</label>
     <input asp-for="id" type="text" readonly>
@@ -13,11 +13,10 @@
     <input asp-for="employeName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
     <div id="employee-name" class="form-text">Employee name</div>
   </div>
-  <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">Employe Image</label>
-    <input asp-for="employeImage" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
-    <div id="Employe-Image" class="form-text">Employe Image test string</div>
-  </div>
+   <!-- upload img -->
+    <label asp-for="EmployePhoto"></label> 
+    <input asp-for="EmployePhoto" id="file" style="width: 100%;" /> 
+<!-- upload img -->
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Position</label>
     <input asp-for="position" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
@@ -33,6 +32,6 @@
     <input asp-for="askMyanyThing" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
     <div id="question" class="form-text">Ask me anything</div>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary">Edit</button>
     <button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Employee">Delete</button>
 </form>

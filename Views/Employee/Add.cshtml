@@ -1,19 +1,18 @@
-﻿@model our_site_asp_net.Models.AddTeamEmployeeModelView;
+﻿@model our_site_asp_net.Models.EmployeProfile;
 
 
 <h1>Create new Employee</h1>  
  
-<form  action="Add" method="POST">
+<form  action="Add" method="POST" enctype='multipart/form-data'>
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Name</label>
     <input asp-for="employeName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
     <div id="employee-name" class="form-text">Employee name</div>
   </div>
-  <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">Employe Image</label>
-    <input asp-for="employeImage" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
-    <div id="Employe-Image" class="form-text">Employe Image test string</div>
-  </div>
+  <!-- upload img -->
+    <label asp-for="EmployePhoto"></label> 
+    <input asp-for="EmployePhoto" id="file" style="width: 100%;" /> 
+<!-- upload img -->
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Position</label>
     <input asp-for="position" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
@@ -29,6 +28,6 @@
     <input asp-for="askMyanyThing" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="name">
     <div id="question" class="form-text">Ask me anything</div>
   </div>
-    <button type="submit" class="btn btn-primary">Edit</button>
+    <button type="submit" value="Upload" class="btn btn-primary">Add</button>
    
 </form>
