@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fhvsEe+Rti1Ep6nxh2BmRbbW6NratF8t4U+i54eXEHc=",
+  "Hash": "urQoCrDW53nX0nxWIWdZmKSI4wRLxy8wzVxF2HDLQfs=",
   "Source": "our-site-asp-net",
   "BasePath": "_content/our-site-asp-net",
   "Mode": "Default",
@@ -1477,6 +1477,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\workers\\images\\banner-g2db310d30_1280.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Moritz_Struebe_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Moritz_Struebe_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Moritz_Struebe_hoch.jpg"
     },
     {
       "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Screenshot (242).png",
