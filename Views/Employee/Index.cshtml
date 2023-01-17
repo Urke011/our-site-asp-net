@@ -1,43 +1,21 @@
 ﻿@model List<our_site_asp_net.Models.EmployeProfile>
 
-    <h1>Show team</h1>
-
-    <table class="table">
-        <thead>
-        <tr>
-            <th>
-                Id
-            </th>
-             <th>
-                employeName
-            </th>
-             
-             <th>
-                position
-            </th>
-             <th>
-                schwerpunkte
-            </th>
-             <th>
-               askMyanyThing
-            </th>
-             <th>
-             
-            </th>
-        </tr>
-        </thead>
-        <tbody>
-        @foreach(var employe in Model)
+    <h1 style="text-align: center;">Team</h1>
+    <div class="container text-center">
+  <div class="row">
+      @foreach(var employe in Model)
         {
-            <tr>
-                <td>@employe.id</td>
-                <td><img src="@employe.photoUrl" alt="some img" style="width: 4rem; object-fit:cover;"></td>
-                 <td>@employe.employeName</td>
-                   <td>@employe.position</td>
-                    <td>@employe.schwerpunkte</td>
-                     <td>@employe.askMyanyThing</td>
-                       <td><a href="employee/view/@employe.id">view</a></td>
-            </tr>
-        }
-        </tbody>
-    </table>
+    <div class="col">
+     <div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="@employe.photoUrl" alt="Card image cap">
+
+  <div class="card-body">
+    <h5 class="card-title">@employe.employeName</h5>
+    <h5 class="card-text">@employe.position</h5>
+    <a href="employee/view/@employe.id">Edit</a>
+  </div>
+</div>
+    </div>
+    }
+</div>
+</div>

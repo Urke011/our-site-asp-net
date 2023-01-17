@@ -93,7 +93,11 @@ namespace our_site_asp_net.Controllers
             if(employee != null)
             {
                 employee.employeName = model.employeName;
-                employee.photoUrl = model.photoUrl;
+                if(model.photoUrl != null)
+                {
+                    employee.photoUrl = model.photoUrl;
+                }
+                
                 employee.position = model.position;
                 employee.schwerpunkte = model.schwerpunkte;
                 employee.askMyanyThing = model.askMyanyThing;

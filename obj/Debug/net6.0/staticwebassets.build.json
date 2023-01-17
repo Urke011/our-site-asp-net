@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "urQoCrDW53nX0nxWIWdZmKSI4wRLxy8wzVxF2HDLQfs=",
+  "Hash": "eGw1piOHj/tAMlTjWKxxUu5XCle7lPQp5uFohUwBFWA=",
   "Source": "our-site-asp-net",
   "BasePath": "_content/our-site-asp-net",
   "Mode": "Default",
@@ -1462,12 +1462,12 @@
       "OriginalItemSpec": "wwwroot\\workers\\images\\Ahmed_Al-Akad_hoch.jpg"
     },
     {
-      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\banner-g2db310d30_1280.jpg",
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Alexander_Sauer_hoch.jpg",
       "SourceId": "our-site-asp-net",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
       "BasePath": "_content/our-site-asp-net",
-      "RelativePath": "workers/images/banner-g2db310d30_1280.jpg",
+      "RelativePath": "workers/images/Alexander_Sauer_hoch.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,7 +1476,75 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\workers\\images\\banner-g2db310d30_1280.jpg"
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Alexander_Sauer_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Andreas_Heiduk_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Andreas_Heiduk_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Andreas_Heiduk_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Andreas_Schubert_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Andreas_Schubert_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Andreas_Schubert_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Denise_Fritsch_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Denise_Fritsch_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Denise_Fritsch_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Kien_Luen_To_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Kien_Luen_To_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Kien_Luen_To_hoch.jpg"
     },
     {
       "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Moritz_Struebe_hoch.jpg",
@@ -1494,23 +1562,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\workers\\images\\Moritz_Struebe_hoch.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Screenshot (242).png",
-      "SourceId": "our-site-asp-net",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
-      "BasePath": "_content/our-site-asp-net",
-      "RelativePath": "workers/images/Screenshot (242).png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\workers\\images\\Screenshot (242).png"
     }
   ]
 }
