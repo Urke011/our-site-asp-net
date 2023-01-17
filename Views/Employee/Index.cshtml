@@ -1,6 +1,20 @@
 ﻿@model List<our_site_asp_net.Models.EmployeProfile>
 
     <h1 style="text-align: center;">Team</h1>
+
+    <!-- Searchbox-->
+    <div class="search-box" style="text-align: center;">
+        <form method="get" asp-action="Index">
+        <p>
+            <input type="search" class="form-control" placeholder="Search Employee.." value="@ViewData["Getemployeedetails"]" name="empsearch" style="width: 500px; display: inline-block;"/>
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <a asp-action="Index">Get all Employees</a>
+        </p>
+        <br/>
+    </form>
+    </div>
+    
+    
     <div class="container text-center">
   <div class="row">
       @foreach(var employe in Model)

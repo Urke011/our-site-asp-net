@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eGw1piOHj/tAMlTjWKxxUu5XCle7lPQp5uFohUwBFWA=",
+  "Hash": "VGgylvgyEAloyN1edWj6btmRWiqyyajosX4RnkGl+FI=",
   "Source": "our-site-asp-net",
   "BasePath": "_content/our-site-asp-net",
   "Mode": "Default",
@@ -1511,6 +1511,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\workers\\images\\Andreas_Schubert_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Axel_Ottmann_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Axel_Ottmann_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Axel_Ottmann_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Christopher_Schmidt_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Christopher_Schmidt_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Christopher_Schmidt_hoch.jpg"
     },
     {
       "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Denise_Fritsch_hoch.jpg",

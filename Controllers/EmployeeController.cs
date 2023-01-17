@@ -20,6 +20,19 @@ namespace our_site_asp_net.Controllers
           var employees =  await  peopleContext.people.ToListAsync();
             return View(employees);
         }
+        //Searchbox
+        [HttpGet]
+        public async Task<IActionResult> Index(string empsearch)
+        {
+            ViewData["Getemployeedetails"] = empsearch;
+
+            var empquery = from x in peopleContext.people select x;
+            if (!String.IsNullOrEmpty(empsearch))
+            {
+                empquery = empquery.Where(x => x.employeName.Contains(empsearch) || x.position.Contains(empsearch) || x.schwerpunkte.Contains(empsearch));
+            }
+            return View(await empquery.AsNoTracking().ToListAsync());
+        }
 
         [HttpGet]
         public IActionResult Add()
