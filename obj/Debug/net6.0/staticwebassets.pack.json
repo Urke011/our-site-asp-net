@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\our-site-asp-net.bundle.scp.css",
+      "PackagePath": "staticwebassets\\our-site-asp-net.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\template.css",
+      "PackagePath": "staticwebassets\\css\\template.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\droid\\droid.css",
+      "PackagePath": "staticwebassets\\fonts\\droid\\droid.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\droid\\droid.woff2",
+      "PackagePath": "staticwebassets\\fonts\\droid\\droid.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\droid\\droid_italic.css",
+      "PackagePath": "staticwebassets\\fonts\\droid\\droid_italic.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\droid\\droid_italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\droid\\droid_italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter.css",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter2.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter2.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter3.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter4.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter4.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter5.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter6.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter6.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter7.woff2",
+      "PackagePath": "staticwebassets\\fonts\\inter\\inter7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\facebook.svg",
+      "PackagePath": "staticwebassets\\image\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\footer_banner.jpg",
+      "PackagePath": "staticwebassets\\image\\footer_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\arrow-right-red.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\arrow-right-red.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\icon_one.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\icon_one.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\icon_three.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\icon_three.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\icon_two.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\icon_two.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\job-sm-logo1.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\job-sm-logo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\job-sm-logo2.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\job-sm-logo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\job-sm-logo3.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\job-sm-logo3.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\joblogo1.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\joblogo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\joblogo2.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\joblogo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\joblogo3.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\joblogo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\joblogo4.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\joblogo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\joblogo5.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\joblogo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\joblogo6.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\joblogo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\kontakt.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\kontakt.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\schema_data-science-01.jpg",
+      "PackagePath": "staticwebassets\\image\\icons\\schema_data-science-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\toggleDown.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\toggleDown.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\toggleDownRed.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\toggleDownRed.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\toggleUp.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\toggleUp.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\icons\\toggleUpRed.svg",
+      "PackagePath": "staticwebassets\\image\\icons\\toggleUpRed.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\linkedin.png",
+      "PackagePath": "staticwebassets\\image\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\mantra.svg",
+      "PackagePath": "staticwebassets\\image\\mantra.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\menu-rounded-100.png",
+      "PackagePath": "staticwebassets\\image\\menu-rounded-100.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\triangle.png",
+      "PackagePath": "staticwebassets\\image\\triangle.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\twitter.svg",
+      "PackagePath": "staticwebassets\\image\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\xing-icon-12.jpg",
+      "PackagePath": "staticwebassets\\image\\xing-icon-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\youtube.svg",
+      "PackagePath": "staticwebassets\\image\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Ahmed_Al-Akad_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Ahmed_Al-Akad_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Alexander_Horch_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Alexander_Horch_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Alexander_Sauer_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Alexander_Sauer_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Alexander_Zeitz_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Alexander_Zeitz_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Alice_Rosine_Tiani_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Alice_Rosine_Tiani_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Andreas_Heiduk_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Andreas_Heiduk_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Andreas_Schubert_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Andreas_Schubert_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Axel_Ottmann_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Axel_Ottmann_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Christopher_Schmidt_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Christopher_Schmidt_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Denise_Fritsch_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Denise_Fritsch_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Fabian_Fuenfgelder_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Fabian_Fuenfgelder_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Heike_Dorner_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Heike_Dorner_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Kien_Luen_To_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Kien_Luen_To_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Moritz_Struebe_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Moritz_Struebe_hoch.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.our-site-asp-net.props",
+      "PackagePath": "build\\our-site-asp-net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.our-site-asp-net.props",
+      "PackagePath": "buildMultiTargeting\\our-site-asp-net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.our-site-asp-net.props",
+      "PackagePath": "buildTransitive\\our-site-asp-net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.our-site-asp-net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

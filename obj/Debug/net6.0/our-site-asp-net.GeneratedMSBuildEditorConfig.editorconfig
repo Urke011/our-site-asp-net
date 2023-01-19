@@ -5,6 +5,7 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = our_site_asp_net
 build_property.RootNamespace = our_site_asp_net
@@ -14,6 +15,26 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\URAJKOVIC\OneDrive - MATHEMA GmbH\Desktop\C#_App\our-site-asp-net
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Blog/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nLmNzaHRtbA==
