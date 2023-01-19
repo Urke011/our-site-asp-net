@@ -35,6 +35,7 @@ namespace our_site_asp_net.Controllers
         }
 
         [HttpGet]
+        
         public IActionResult Add()
         {
             return View();
