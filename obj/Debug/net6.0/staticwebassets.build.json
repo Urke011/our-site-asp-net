@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DlcnVdS4gA2MIC1QWdP2s6jtA4jcRVLc+IMrvJLFxtk=",
+  "Hash": "t5WPxTElnLoTopApcbPf8NasHxmFEZ/g2k76Ghf3krs=",
   "Source": "our-site-asp-net",
   "BasePath": "_content/our-site-asp-net",
   "Mode": "Default",
@@ -1868,6 +1868,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\workers\\images\\Alexander_Zeitz_hoch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Alice_Rosine_Tiani_hoch.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "workers/images/Alice_Rosine_Tiani_hoch.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\workers\\images\\Alice_Rosine_Tiani_hoch.jpg"
     },
     {
       "Identity": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Andreas_Heiduk_hoch.jpg",
