@@ -869,3 +869,9 @@ a.fixed-size > div.mathema-link-with-background {
 .job-content ul li > div {
     display: inline;
 }
+.card img {
+    height: inherit;
+}
+.card{
+    height: 100%;
+}
