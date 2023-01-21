@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using our_site_asp_net.Models;
 
@@ -35,12 +36,13 @@ namespace our_site_asp_net.Controllers
         }
 
         [HttpGet]
-        
+        [Authorize]
         public IActionResult Add()
         {
             return View();
         }
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Add(EmployeProfile addEmployeeRequest)
         {
             //upload Img
@@ -70,9 +72,11 @@ namespace our_site_asp_net.Controllers
             return RedirectToAction("Index");
         }
         [HttpGet]
+        [Authorize]
         public async Task <IActionResult> View(int id)
         {
-           var employee = await peopleContext.people.FirstOrDefaultAsync(x=>x.id == id);
+           
+            var employee = await peopleContext.people.FirstOrDefaultAsync(x=>x.id == id);
             if(employee != null)
             {
                 var viewModel = new EmployeProfile()
@@ -90,6 +94,7 @@ namespace our_site_asp_net.Controllers
          return  RedirectToAction("Index");
         }
         //update
+      
         public async Task<IActionResult> View(EmployeProfile model)
         {
 
@@ -122,6 +127,7 @@ namespace our_site_asp_net.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> Delete(EmployeProfile model)
         {
             var employee = await peopleContext.people.FindAsync(model.id);

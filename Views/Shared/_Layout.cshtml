@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -17,12 +20,24 @@
                     </div>
           <div>
               <ul>
-                  <li class="nav-item">
+                        @if(User.Identity.IsAuthenticated) 
+                        {
+              
+                            <div> 
+                               <button type="button" class="btn btn-primary">@User.FindFirst(ClaimTypes.Name).Value</button>
+                      <button type="button" class="btn btn-danger text-white"><a asp-area="" asp-controller="Account" asp-action="Logout">Logout</a></button>
+                            </div>
+                                     <li class="nav-item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Add">Create New Profile</a>
                   </li>
                    <li class="nav-item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Blog" asp-action="CreateBlog">Create New Blog</a>
                   </li>
+                        }  
+                        else
+                        {
+                          <!-- <button type="button" class="btn btn-danger">Not login</button>--> 
+                        }
               </ul>
           </div>
             <div class="menu">

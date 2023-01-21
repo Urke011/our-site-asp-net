@@ -26,7 +26,11 @@
   <div class="card-body">
     <h5 class="card-title">@employe.employeName</h5>
     <h5 class="card-text">@employe.position</h5>
-    <a href="employee/view/@employe.id">Edit</a>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a href="employee/view/@employe.id">Edit</a>    
+                        }
+                    
   </div>
 </div>
     </div>
