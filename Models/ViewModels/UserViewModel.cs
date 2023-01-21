@@ -3,8 +3,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace our_site_asp_net.Models.ViewModels
 {
+   
     public class UserViewModel
     {
+       
         public string Id { get; set; }
 
         [Required, MinLength(2, ErrorMessage = "Minimum length is 2")]
