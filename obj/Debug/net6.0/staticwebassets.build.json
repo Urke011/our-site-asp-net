@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ujcZHhyTtIkiJiOcTTVja7ap7fm2inKTJytEh0lDgdo=",
+  "Hash": "hlTEwLCNvKGCgV6YjvC5k/ViVCXabOLzAAn+nvWVWfc=",
   "Source": "our-site-asp-net",
   "BasePath": "_content/our-site-asp-net",
   "Mode": "Default",
@@ -5678,12 +5678,12 @@
       "OriginalItemSpec": "wwwroot\\image\\cities\\munchen.png"
     },
     {
-      "Identity": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\image\\cities\\nurnberg.jpg",
+      "Identity": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\image\\cities\\nurnberg.png",
       "SourceId": "our-site-asp-net",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\",
       "BasePath": "_content/our-site-asp-net",
-      "RelativePath": "image/cities/nurnberg.jpg",
+      "RelativePath": "image/cities/nurnberg.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5692,7 +5692,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\cities\\nurnberg.jpg"
+      "OriginalItemSpec": "wwwroot\\image\\cities\\nurnberg.png"
     },
     {
       "Identity": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\image\\facebook.svg",
@@ -6101,6 +6101,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\job-headers\\1066319.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\image\\job-headers\\1346549.jpg",
+      "SourceId": "our-site-asp-net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\",
+      "BasePath": "_content/our-site-asp-net",
+      "RelativePath": "image/job-headers/1346549.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\job-headers\\1346549.jpg"
     },
     {
       "Identity": "C:\\Users\\urajkovic\\Desktop\\c#app\\our-site-asp-net\\wwwroot\\image\\job-headers\\4i9fl8ivgry8s4c8gksgow88g0ggcok.jpg",

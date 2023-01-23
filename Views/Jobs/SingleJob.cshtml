@@ -1,9 +1,32 @@
 ﻿
 @model List<our_site_asp_net.Models.Jobs>
 
-<h1>Hallo single job</h1>
-
 @foreach (var item in Model)
 {
-    <h3>@item.Title</h3>    
+    <div style="display: flex; justify-content: center;">
+        <img src="@item.photoUrl" class="width-100" >
+    </div>
+    <h1 style="text-align: left;" class="mt-5">@item.Title</h1>
+    <p class="mb-5">@item.currentCity |Full-time|Part-time</p>
+
+    <div class="job-content">
+           @Html.Raw(@item.JobContent)
+    </div>
+    <center class="mb-5 mt-5"><p><a target="_blank" href="#" class="btn text-big text-white back-red">Jetzt
+            bewerben</a>
+        <a target="_blank" asp-controller="Home" asp-action="Datenschutz" class="btn text-big text-danger back-white">Datenschutz für Bewerber</a></p></center>
+ <div style="display: flex; margin: 0 auto; width: 50%" class="mt-5 shadow mb-5">
+    <div class="card" style="width: 150rem; ">
+        
+  <img class="card-img-top" src="~/image/cities/@(item.currentCity + "" + ".png")" alt="Card image cap"></div>
+  <div class="card-body">
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's contentquick example text to build on the card title and make up the bulk..</p>
+  </div>
+</div>
+  
+<div class="full-width back-dark standard-padding mt-5" style="text-align: center;">
+<p>&nbsp;</p>
+<h2 class="font-bold text-white">Interested?</h2>
+Send your application documents to:  <br><a href="mailto:hr@maaa.com" class="text-white">hr@hr@maaa.com<br><br></a></div>
+
 }
