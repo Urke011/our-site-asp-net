@@ -875,3 +875,10 @@ a.fixed-size > div.mathema-link-with-background {
 .card{
     height: 100%;
 }
+.jobs{
+    display: flex;
+    justify-content: space-between;
+}
+.list-group a{
+    text-decoration: none;
+}

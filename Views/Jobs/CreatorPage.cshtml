@@ -1,0 +1,40 @@
+﻿@model our_site_asp_net.Models.Jobs
+<link href="~/css/froala_editor.pkgd.min.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="~/js/froala_editor.pkgd.min.js"></script>
+
+<h1>Jobs</h1>
+
+<div>
+    <form action="CreatorPage" method="post" enctype='multipart/form-data'>
+    <div class="mb-3">
+    <label for="exampleInputTitle" class="form-label">Title</label>
+    <input asp-for=Title type="text" class="form-control" id="title" aria-describedby="name" required>
+    <div id="Title" class="form-text">Title</div>
+  </div>
+ 
+  <!-- upload img -->
+    <label asp-for="JobPhoto"></label> 
+    <input asp-for="JobPhoto" id="file" style="width: 100%;" required/> 
+    <br />
+    <br />
+<!-- upload img -->
+<!-- city -->
+  <label asp-for="currentCity">Choose a city:</label>
+  <select asp-for="currentCity" id="cars" class="form-select form-select-lg" required>
+    <option value="">Please choose City for Job</option>
+    <option>nurnberg</option>
+    <option>munchen</option>
+  </select>
+   <span asp-validation-for="currentCity" class"text-danger"></span>  
+   <br />
+   <br />
+   <!-- city -->
+   <label asp-for="JobContent">Choose a city:</label>
+         <textarea name="JobContent" id="myEditor" required></textarea>
+           <br />
+         <button class="btn btn-secondary">Submit</button>
+    </form>
+   
+    <script>
+        var editor = new FroalaEditor("#myEditor");
+    </script>
+</div>

@@ -1,0 +1,35 @@
+﻿@model List<our_site_asp_net.Models.Jobs>
+
+
+    <h1 style="text-align: center;">Your options:</h1>
+    <br/>
+    <br/>
+ 
+        <h3 class="text-red mt-5">
+            At the location: Nurnberg
+        </h3>
+    @foreach(var jobItem in Model)
+    {
+      <ul class="list-group">
+    @if(@jobItem.currentCity == "nurnberg")
+    {
+     
+        <a href="Jobs/SingleJob/@jobItem.Id" class="mb-3">
+          <li class="list-group-item jobs"><h3>@jobItem.Title</h3><img src="~/image/right.png" style="width: 3rem; display:inline-block;"/></li>
+       </a>
+    }
+     </ul>
+    }
+     <h3 class="text-red mt-5">
+            At the location: Munich
+        </h3>
+         <ul class="list-group ">
+ @foreach( var jobItem in Model)
+    {     
+     if(@jobItem.currentCity != "nurnberg")
+    {  <a href="Jobs/SingleJob/@jobItem.Id" class="mb-3">
+              <li class="list-group-item jobs"><h3>@jobItem.Title</h3>
+              <img src="~/image/right.png" style="width: 3rem; display:inline-block;"/></li></a>  
+    }    
+   }
+  </ul>

@@ -1130,3 +1130,10 @@ C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\Microsoft.Asp
 C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
