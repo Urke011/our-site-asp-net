@@ -5840,6 +5840,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\job-headers\58473b73-a5f5-4db4-9537-1f786d4a7044image-test.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\job-headers\5b601217-1e09-41e6-82e2-fdf0fd7bb12c1069029.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>our-site-asp-net</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/our-site-asp-net</BasePath>
+      <RelativePath>image/job-headers/5b601217-1e09-41e6-82e2-fdf0fd7bb12c1069029.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\job-headers\5b601217-1e09-41e6-82e2-fdf0fd7bb12c1069029.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\job-headers\5id1lnk75fokckcsg00o0o08kgog4gs.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>our-site-asp-net</SourceId>
