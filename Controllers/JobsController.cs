@@ -59,5 +59,68 @@ namespace our_site_asp_net.Controllers
                  
             return View(singleJob);
         }
+        [HttpGet]
+        //ovo je stranica gde se pravi edit forma sa akutelnim vrednostima
+        public IActionResult Edit(int id)
+        {
+            var singleJob = peopleContext.Jobs.FirstOrDefault(x => x.Id == id);
+            if (singleJob != null)
+            {
+                var viewModel = new Jobs()
+                {
+                    Id = singleJob.Id,
+                    Title = singleJob.Title,
+                    JobPhoto = singleJob.JobPhoto,
+                    JobContent = singleJob.JobContent,
+                    currentCity = singleJob.currentCity
+                    
+                };
+                return View(viewModel);
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public async Task <IActionResult> Edit(Jobs job)
+        {
+            if (job.JobPhoto != null)
+            {
+                Guid g = Guid.NewGuid();
+                string folder = "image/job-headers/";
+                folder += g+job.JobPhoto.FileName;
+                string serverFolder = Path.Combine(webHostEnvironment.WebRootPath, folder);
+                job.photoUrl = "/" + folder;
+                //save img
+                job.JobPhoto.CopyTo(new FileStream(serverFolder, FileMode.Create));
+            }
+
+            var singleJob = await peopleContext.Jobs.FindAsync(job.Id);
+            if (singleJob != null)
+            {
+                if(job.photoUrl != null) {
+                    singleJob.photoUrl = job.photoUrl;
+                }
+                
+                singleJob.Title = job.Title;
+                singleJob.JobContent = job.JobContent;
+                singleJob.currentCity = job.currentCity;
+                await peopleContext.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
+        }
+        [HttpPost]
+        public IActionResult Delete(Jobs job)
+        {
+            var singleJob = peopleContext.Jobs.Find(job.Id);
+            if(singleJob != null)
+            {
+                peopleContext.Jobs.Remove(singleJob);
+                peopleContext.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
