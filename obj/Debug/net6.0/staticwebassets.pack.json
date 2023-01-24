@@ -5,12 +5,244 @@
       "PackagePath": "staticwebassets\\our-site-asp-net.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\froala_editor.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\froala_editor.min.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\froala_editor.pkgd.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\froala_editor.pkgd.min.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\froala_style.css",
+      "PackagePath": "staticwebassets\\css\\froala_style.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\froala_style.min.css",
+      "PackagePath": "staticwebassets\\css\\froala_style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins.pkgd.css",
+      "PackagePath": "staticwebassets\\css\\plugins.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins.pkgd.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\char_counter.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\char_counter.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\char_counter.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\char_counter.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\code_view.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\code_view.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\code_view.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\code_view.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\colors.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\colors.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\colors.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\draggable.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\draggable.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\draggable.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\draggable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\emoticons.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\emoticons.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\emoticons.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\emoticons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\file.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\file.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\file.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\file.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\files_manager.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\files_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\files_manager.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\files_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\fullscreen.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\fullscreen.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\fullscreen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\help.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\help.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\help.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\help.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\image.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\image.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\image_manager.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\image_manager.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\line_breaker.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\line_breaker.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\line_breaker.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\line_breaker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\markdown.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\markdown.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\markdown.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\markdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\quick_insert.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\quick_insert.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\quick_insert.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\quick_insert.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\special_characters.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\special_characters.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\special_characters.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\special_characters.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\table.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\table.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\table.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\trim_video.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\trim_video.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\trim_video.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\trim_video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\video.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\plugins\\video.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\video.min.css"
+    },
+    {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\template.css",
       "PackagePath": "staticwebassets\\css\\template.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\themes\\dark.css",
+      "PackagePath": "staticwebassets\\css\\themes\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\themes\\dark.min.css",
+      "PackagePath": "staticwebassets\\css\\themes\\dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\themes\\gray.css",
+      "PackagePath": "staticwebassets\\css\\themes\\gray.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\themes\\gray.min.css",
+      "PackagePath": "staticwebassets\\css\\themes\\gray.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\themes\\royal.css",
+      "PackagePath": "staticwebassets\\css\\themes\\royal.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\themes\\royal.min.css",
+      "PackagePath": "staticwebassets\\css\\themes\\royal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\embedly.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\embedly.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\embedly.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\embedly.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\font_awesome.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\font_awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\font_awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\font_awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\image_tui.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\image_tui.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\image_tui.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\image_tui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\spell_checker.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\spell_checker.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\css\\third_party\\spell_checker.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\spell_checker.min.css"
     },
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\favicon.ico",
@@ -63,6 +295,1042 @@
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\fonts\\inter\\inter7.woff2",
       "PackagePath": "staticwebassets\\fonts\\inter\\inter7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\License.txt",
+      "PackagePath": "staticwebassets\\froala\\License.txt"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\README.md",
+      "PackagePath": "staticwebassets\\froala\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\bower.json",
+      "PackagePath": "staticwebassets\\froala\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\composer.json",
+      "PackagePath": "staticwebassets\\froala\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\froala_editor.css",
+      "PackagePath": "staticwebassets\\froala\\css\\froala_editor.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\froala_editor.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\froala_editor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\froala_editor.pkgd.css",
+      "PackagePath": "staticwebassets\\froala\\css\\froala_editor.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\froala_editor.pkgd.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\froala_editor.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\froala_style.css",
+      "PackagePath": "staticwebassets\\froala\\css\\froala_style.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\froala_style.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\froala_style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins.pkgd.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins.pkgd.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\char_counter.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\char_counter.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\char_counter.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\char_counter.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\code_view.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\code_view.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\code_view.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\code_view.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\colors.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\colors.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\colors.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\draggable.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\draggable.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\draggable.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\draggable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\emoticons.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\emoticons.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\emoticons.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\emoticons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\file.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\file.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\file.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\file.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\files_manager.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\files_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\files_manager.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\files_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\fullscreen.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\fullscreen.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\fullscreen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\help.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\help.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\help.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\help.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\image.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\image.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\image.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\image.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\image_manager.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\image_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\image_manager.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\image_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\line_breaker.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\line_breaker.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\line_breaker.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\line_breaker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\markdown.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\markdown.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\markdown.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\markdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\quick_insert.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\quick_insert.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\quick_insert.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\quick_insert.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\special_characters.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\special_characters.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\special_characters.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\special_characters.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\table.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\table.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\table.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\trim_video.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\trim_video.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\trim_video.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\trim_video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\video.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\plugins\\video.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\plugins\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\themes\\dark.css",
+      "PackagePath": "staticwebassets\\froala\\css\\themes\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\themes\\dark.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\themes\\dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\themes\\gray.css",
+      "PackagePath": "staticwebassets\\froala\\css\\themes\\gray.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\themes\\gray.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\themes\\gray.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\themes\\royal.css",
+      "PackagePath": "staticwebassets\\froala\\css\\themes\\royal.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\themes\\royal.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\themes\\royal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\embedly.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\embedly.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\embedly.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\embedly.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\font_awesome.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\font_awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\font_awesome.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\font_awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\image_tui.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\image_tui.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\image_tui.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\image_tui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\spell_checker.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\spell_checker.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\css\\third_party\\spell_checker.min.css",
+      "PackagePath": "staticwebassets\\froala\\css\\third_party\\spell_checker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\editor.jpg",
+      "PackagePath": "staticwebassets\\froala\\editor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\aviary\\index.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\aviary\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\bootstrap\\grid.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\bootstrap\\grid.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\bootstrap\\lists.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\bootstrap\\lists.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\bootstrap\\modal.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\bootstrap\\modal.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\code-mirror.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\code-mirror.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\font-awesome-5-css.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\font-awesome-5-css.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\font-awesome-5-js.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\font-awesome-5-js.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\jquery\\mobile.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\jquery\\mobile.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\jquery\\ui_modal.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\jquery\\ui_modal.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\spell-checker\\spell-checker.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\spell-checker\\spell-checker.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\3rd-party\\tui\\index.html",
+      "PackagePath": "staticwebassets\\froala\\html\\3rd-party\\tui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\api\\get_html.html",
+      "PackagePath": "staticwebassets\\froala\\html\\api\\get_html.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\api\\init_destroy.html",
+      "PackagePath": "staticwebassets\\froala\\html\\api\\init_destroy.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\api\\insert_html.html",
+      "PackagePath": "staticwebassets\\froala\\html\\api\\insert_html.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\api\\live_code_preview.html",
+      "PackagePath": "staticwebassets\\froala\\html\\api\\live_code_preview.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\api\\live_content_preview.html",
+      "PackagePath": "staticwebassets\\froala\\html\\api\\live_content_preview.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\api\\selection.html",
+      "PackagePath": "staticwebassets\\froala\\html\\api\\selection.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\buttons\\custom_buttons.html",
+      "PackagePath": "staticwebassets\\froala\\html\\buttons\\custom_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\buttons\\custom_dropdown.html",
+      "PackagePath": "staticwebassets\\froala\\html\\buttons\\custom_dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\buttons\\external_button.html",
+      "PackagePath": "staticwebassets\\froala\\html\\buttons\\external_button.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\buttons\\subscript_superscript.html",
+      "PackagePath": "staticwebassets\\froala\\html\\buttons\\subscript_superscript.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\events\\blur_focus.html",
+      "PackagePath": "staticwebassets\\froala\\html\\events\\blur_focus.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\events\\content_changed.html",
+      "PackagePath": "staticwebassets\\froala\\html\\events\\content_changed.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\events\\drop.html",
+      "PackagePath": "staticwebassets\\froala\\html\\events\\drop.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\events\\image_removed.html",
+      "PackagePath": "staticwebassets\\froala\\html\\events\\image_removed.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\events\\initialized_destroy.html",
+      "PackagePath": "staticwebassets\\froala\\html\\events\\initialized_destroy.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\file_s3_upload.php",
+      "PackagePath": "staticwebassets\\froala\\html\\file_s3_upload.php"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\image\\custom_button.html",
+      "PackagePath": "staticwebassets\\froala\\html\\image\\custom_button.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\image\\default_width.html",
+      "PackagePath": "staticwebassets\\froala\\html\\image\\default_width.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\image\\image_styles.html",
+      "PackagePath": "staticwebassets\\froala\\html\\image\\image_styles.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\image\\insert_base64.html",
+      "PackagePath": "staticwebassets\\froala\\html\\image\\insert_base64.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\image_s3_upload.php",
+      "PackagePath": "staticwebassets\\froala\\html\\image_s3_upload.php"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\init_inside_iframe\\basic.html",
+      "PackagePath": "staticwebassets\\froala\\html\\init_inside_iframe\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\init_inside_iframe\\content.html",
+      "PackagePath": "staticwebassets\\froala\\html\\init_inside_iframe\\content.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\init_inside_iframe\\inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\init_inside_iframe\\inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\init_on_click\\basic.html",
+      "PackagePath": "staticwebassets\\froala\\html\\init_on_click\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\init_on_click\\inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\init_on_click\\inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\init_on_click\\two_editors.html",
+      "PackagePath": "staticwebassets\\froala\\html\\init_on_click\\two_editors.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\edit_in_popup.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\edit_in_popup.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\init_on_button.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\init_on_button.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\init_on_click.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\init_on_click.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\init_on_h1.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\init_on_h1.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\init_on_image.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\init_on_image.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\init_on_link.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\init_on_link.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\initialization\\initialized_event.html",
+      "PackagePath": "staticwebassets\\froala\\html\\initialization\\initialized_event.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\international\\direction_rtl.html",
+      "PackagePath": "staticwebassets\\froala\\html\\international\\direction_rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\international\\language.html",
+      "PackagePath": "staticwebassets\\froala\\html\\international\\language.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\international\\rtl_ltr_buttons.html",
+      "PackagePath": "staticwebassets\\froala\\html\\international\\rtl_ltr_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\link\\custom_validation.html",
+      "PackagePath": "staticwebassets\\froala\\html\\link\\custom_validation.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\link\\link_styles.html",
+      "PackagePath": "staticwebassets\\froala\\html\\link\\link_styles.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\link\\predefined_links.html",
+      "PackagePath": "staticwebassets\\froala\\html\\link\\predefined_links.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\misc\\scrollable_container.html",
+      "PackagePath": "staticwebassets\\froala\\html\\misc\\scrollable_container.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\misc\\scrollable_container_inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\misc\\scrollable_container_inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\paragraph_modes\\enter_br.html",
+      "PackagePath": "staticwebassets\\froala\\html\\paragraph_modes\\enter_br.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\paragraph_modes\\enter_div.html",
+      "PackagePath": "staticwebassets\\froala\\html\\paragraph_modes\\enter_div.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\paragraph_modes\\enter_p.html",
+      "PackagePath": "staticwebassets\\froala\\html\\paragraph_modes\\enter_p.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\paste\\attrs.html",
+      "PackagePath": "staticwebassets\\froala\\html\\paste\\attrs.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\paste\\plain.html",
+      "PackagePath": "staticwebassets\\froala\\html\\paste\\plain.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\paste\\tags.html",
+      "PackagePath": "staticwebassets\\froala\\html\\paste\\tags.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\plugins\\char_counter.html",
+      "PackagePath": "staticwebassets\\froala\\html\\plugins\\char_counter.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\plugins\\full_screen.html",
+      "PackagePath": "staticwebassets\\froala\\html\\plugins\\full_screen.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\plugins\\line_breaker.html",
+      "PackagePath": "staticwebassets\\froala\\html\\plugins\\line_breaker.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\plugins\\quick_insert.html",
+      "PackagePath": "staticwebassets\\froala\\html\\plugins\\quick_insert.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\disable_edit.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\disable_edit.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\disable_paragraphs.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\disable_paragraphs.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\full.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\full.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\full_page.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\full_page.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\iframe.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\iframe.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\init_on_click.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\init_on_click.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\textarea.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\textarea.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\toolbar_buttons.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\toolbar_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\toolbar_inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\toolbar_inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\two_instances.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\two_instances.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popular\\z_index.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popular\\z_index.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popups\\colors.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popups\\colors.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popups\\custom.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popups\\custom.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\popups\\emoticons.html",
+      "PackagePath": "staticwebassets\\froala\\html\\popups\\emoticons.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\adjustable_height.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\adjustable_height.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\font_family.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\font_family.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\height.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\height.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\paragraph.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\paragraph.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\placeholder.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\placeholder.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\styling\\width.html",
+      "PackagePath": "staticwebassets\\froala\\html\\styling\\width.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\table\\cell_style.html",
+      "PackagePath": "staticwebassets\\froala\\html\\table\\cell_style.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\table\\insert_helper.html",
+      "PackagePath": "staticwebassets\\froala\\html\\table\\insert_helper.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\table\\nested.html",
+      "PackagePath": "staticwebassets\\froala\\html\\table\\nested.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\table\\resize.html",
+      "PackagePath": "staticwebassets\\froala\\html\\table\\resize.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\table\\style.html",
+      "PackagePath": "staticwebassets\\froala\\html\\table\\style.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\themes\\dark.html",
+      "PackagePath": "staticwebassets\\froala\\html\\themes\\dark.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\themes\\gray.html",
+      "PackagePath": "staticwebassets\\froala\\html\\themes\\gray.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\themes\\royal.html",
+      "PackagePath": "staticwebassets\\froala\\html\\themes\\royal.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\bottom.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\bottom.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\bottom_offset.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\bottom_offset.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\buttons.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\external.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\external.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\external_inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\external_inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\inline.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\inline.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\inline_selection.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\inline_selection.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\offset.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\offset.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\show_selection.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\show_selection.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\toolbar\\sticky.html",
+      "PackagePath": "staticwebassets\\froala\\html\\toolbar\\sticky.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\typing\\keep_format.html",
+      "PackagePath": "staticwebassets\\froala\\html\\typing\\keep_format.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\typing\\shortcuts.html",
+      "PackagePath": "staticwebassets\\froala\\html\\typing\\shortcuts.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\html\\typing\\tab.html",
+      "PackagePath": "staticwebassets\\froala\\html\\typing\\tab.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\img\\photo1.jpg",
+      "PackagePath": "staticwebassets\\froala\\img\\photo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\index.html",
+      "PackagePath": "staticwebassets\\froala\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\froala_editor.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\froala_editor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\froala_editor.pkgd.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\froala_editor.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\ar.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\bs.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\cs.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\da.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\de.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\el.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\en_ca.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\en_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\en_gb.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\en_gb.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\es.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\et.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\fa.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\fi.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\fr.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\he.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\hr.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\hu.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\id.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\it.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\ja.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\ko.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\ku.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\me.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\nb.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\nl.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\pl.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\pt_br.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\pt_br.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\pt_pt.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\pt_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\ro.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\ru.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\sk.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\sl.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\sr.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\sv.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\th.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\tr.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\uk.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\vi.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\zh_cn.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\zh_cn.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\languages\\zh_tw.js",
+      "PackagePath": "staticwebassets\\froala\\js\\languages\\zh_tw.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins.pkgd.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\align.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\align.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\char_counter.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\char_counter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\code_beautifier.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\code_beautifier.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\code_view.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\code_view.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\colors.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\colors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\cryptojs.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\cryptojs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\draggable.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\draggable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\edit_in_popup.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\edit_in_popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\emoticons.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\emoticons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\entities.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\entities.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\file.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\file.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\files_manager.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\files_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\font_family.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\font_family.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\font_size.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\font_size.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\forms.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\forms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\fullscreen.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\help.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\help.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\image.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\image.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\image_manager.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\image_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\inline_class.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\inline_class.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\inline_style.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\inline_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\line_breaker.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\line_breaker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\line_height.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\line_height.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\link.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\link.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\lists.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\lists.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\markdown.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\markdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\paragraph_format.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\paragraph_format.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\paragraph_style.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\paragraph_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\print.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\quick_insert.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\quick_insert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\quote.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\quote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\save.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\save.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\special_characters.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\special_characters.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\table.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\track_changes.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\track_changes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\trim_video.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\trim_video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\url.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\url.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\video.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\plugins\\word_paste.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\plugins\\word_paste.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\third_party\\embedly.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\third_party\\embedly.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\third_party\\font_awesome.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\third_party\\font_awesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\third_party\\image_tui.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\third_party\\image_tui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\third_party\\showdown.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\third_party\\showdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\js\\third_party\\spell_checker.min.js",
+      "PackagePath": "staticwebassets\\froala\\js\\third_party\\spell_checker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\froala\\package.json",
+      "PackagePath": "staticwebassets\\froala\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\cities\\munchen.png",
+      "PackagePath": "staticwebassets\\image\\cities\\munchen.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\cities\\nurnberg.png",
+      "PackagePath": "staticwebassets\\image\\cities\\nurnberg.png"
     },
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\facebook.svg",
@@ -157,6 +1425,70 @@
       "PackagePath": "staticwebassets\\image\\icons\\toggleUpRed.svg"
     },
     {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-headers\\1066319.jpg",
+      "PackagePath": "staticwebassets\\image\\job-headers\\1066319.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-headers\\1069029.jpg",
+      "PackagePath": "staticwebassets\\image\\job-headers\\1069029.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-headers\\1346549.jpg",
+      "PackagePath": "staticwebassets\\image\\job-headers\\1346549.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-headers\\4i9fl8ivgry8s4c8gksgow88g0ggcok.jpg",
+      "PackagePath": "staticwebassets\\image\\job-headers\\4i9fl8ivgry8s4c8gksgow88g0ggcok.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-headers\\5id1lnk75fokckcsg00o0o08kgog4gs.jpg",
+      "PackagePath": "staticwebassets\\image\\job-headers\\5id1lnk75fokckcsg00o0o08kgog4gs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-headers\\image-test.jpg",
+      "PackagePath": "staticwebassets\\image\\job-headers\\image-test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\Platzhalter_neu.jpg",
+      "PackagePath": "staticwebassets\\image\\job-icons\\Platzhalter_neu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\embedded.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\embedded.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\full.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\full.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\hr.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\hr.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\index.html",
+      "PackagePath": "staticwebassets\\image\\job-icons\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\java.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\java.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\mobile.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\net.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\net.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\python.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\job-icons\\web.png",
+      "PackagePath": "staticwebassets\\image\\job-icons\\web.png"
+    },
+    {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\linkedin.png",
       "PackagePath": "staticwebassets\\image\\linkedin.png"
     },
@@ -167,6 +1499,10 @@
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\menu-rounded-100.png",
       "PackagePath": "staticwebassets\\image\\menu-rounded-100.png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\right.png",
+      "PackagePath": "staticwebassets\\image\\right.png"
     },
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\image\\triangle.png",
@@ -185,8 +1521,352 @@
       "PackagePath": "staticwebassets\\image\\youtube.svg"
     },
     {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\froala_editor.min.js",
+      "PackagePath": "staticwebassets\\js\\froala_editor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\froala_editor.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\froala_editor.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\ar.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\bs.js",
+      "PackagePath": "staticwebassets\\js\\languages\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\cs.js",
+      "PackagePath": "staticwebassets\\js\\languages\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\da.js",
+      "PackagePath": "staticwebassets\\js\\languages\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\de.js",
+      "PackagePath": "staticwebassets\\js\\languages\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\el.js",
+      "PackagePath": "staticwebassets\\js\\languages\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\en_ca.js",
+      "PackagePath": "staticwebassets\\js\\languages\\en_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\en_gb.js",
+      "PackagePath": "staticwebassets\\js\\languages\\en_gb.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\es.js",
+      "PackagePath": "staticwebassets\\js\\languages\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\et.js",
+      "PackagePath": "staticwebassets\\js\\languages\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\fa.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\fi.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\fr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\he.js",
+      "PackagePath": "staticwebassets\\js\\languages\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\hr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\hu.js",
+      "PackagePath": "staticwebassets\\js\\languages\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\id.js",
+      "PackagePath": "staticwebassets\\js\\languages\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\it.js",
+      "PackagePath": "staticwebassets\\js\\languages\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\ja.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\ko.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\ku.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\me.js",
+      "PackagePath": "staticwebassets\\js\\languages\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\nb.js",
+      "PackagePath": "staticwebassets\\js\\languages\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\nl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\pl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\pt_br.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pt_br.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\pt_pt.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pt_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\ro.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\ru.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\sk.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\sl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\sr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\sv.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\th.js",
+      "PackagePath": "staticwebassets\\js\\languages\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\tr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\uk.js",
+      "PackagePath": "staticwebassets\\js\\languages\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\vi.js",
+      "PackagePath": "staticwebassets\\js\\languages\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\zh_cn.js",
+      "PackagePath": "staticwebassets\\js\\languages\\zh_cn.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\languages\\zh_tw.js",
+      "PackagePath": "staticwebassets\\js\\languages\\zh_tw.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\align.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\align.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\char_counter.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\char_counter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\code_beautifier.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\code_beautifier.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\code_view.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\code_view.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\colors.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\colors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\cryptojs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\cryptojs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\draggable.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\draggable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\edit_in_popup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\edit_in_popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\emoticons.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\emoticons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\entities.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\entities.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\file.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\file.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\files_manager.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\files_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\font_family.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\font_family.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\font_size.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\font_size.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\forms.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\forms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\fullscreen.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\help.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\help.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\image.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\image.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\image_manager.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\image_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\inline_class.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\inline_class.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\inline_style.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\inline_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\line_breaker.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\line_breaker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\line_height.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\line_height.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\link.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\link.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\lists.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\lists.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\markdown.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\markdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\paragraph_format.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\paragraph_format.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\paragraph_style.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\paragraph_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\print.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\quick_insert.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quick_insert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\quote.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\save.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\save.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\special_characters.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\special_characters.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\table.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\track_changes.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\track_changes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\trim_video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\trim_video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\url.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\url.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\plugins\\word_paste.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\word_paste.min.js"
+    },
+    {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\third_party\\embedly.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\embedly.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\third_party\\font_awesome.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\font_awesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\third_party\\image_tui.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\image_tui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\third_party\\showdown.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\showdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\js\\third_party\\spell_checker.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\spell_checker.min.js"
     },
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -445,6 +2125,10 @@
       "PackagePath": "staticwebassets\\workers\\images\\Andreas_Schubert_hoch.jpg"
     },
     {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Anna_Sharapova_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Anna_Sharapova_hoch.jpg"
+    },
+    {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Axel_Ottmann_hoch.jpg",
       "PackagePath": "staticwebassets\\workers\\images\\Axel_Ottmann_hoch.jpg"
     },
@@ -457,8 +2141,16 @@
       "PackagePath": "staticwebassets\\workers\\images\\Denise_Fritsch_hoch.jpg"
     },
     {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Dominik_Dinkel_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Dominik_Dinkel_hoch.jpg"
+    },
+    {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Fabian_Fuenfgelder_hoch.jpg",
       "PackagePath": "staticwebassets\\workers\\images\\Fabian_Fuenfgelder_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Fabian_Witt_hoch.jpg",
+      "PackagePath": "staticwebassets\\workers\\images\\Fabian_Witt_hoch.jpg"
     },
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Heike_Dorner_hoch.jpg",
@@ -471,6 +2163,18 @@
     {
       "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Moritz_Struebe_hoch.jpg",
       "PackagePath": "staticwebassets\\workers\\images\\Moritz_Struebe_hoch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Screenshot (162).png",
+      "PackagePath": "staticwebassets\\workers\\images\\Screenshot (162).png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\Screenshot (202).png",
+      "PackagePath": "staticwebassets\\workers\\images\\Screenshot (202).png"
+    },
+    {
+      "Id": "C:\\Users\\URAJKOVIC\\OneDrive - MATHEMA GmbH\\Desktop\\C#_App\\our-site-asp-net\\wwwroot\\workers\\images\\White and Orange Minimal Aesthetic Hello Fall Facebook Cover.png",
+      "PackagePath": "staticwebassets\\workers\\images\\White and Orange Minimal Aesthetic Hello Fall Facebook Cover.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.our-site-asp-net.props",

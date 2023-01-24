@@ -25,8 +25,9 @@ namespace our_site_asp_net.Controllers
 
             if (jobRequest.JobPhoto != null)
             {
+                Guid g = Guid.NewGuid();
                 string folder = "image/job-headers/";
-                folder += jobRequest.JobPhoto.FileName;
+                folder += g+jobRequest.JobPhoto.FileName;
                 string serverFolder = Path.Combine(webHostEnvironment.WebRootPath, folder);
                 jobRequest.photoUrl = "/" + folder;
                 //save img
