@@ -5,125 +5,124 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = our_site_asp_net
 build_property.RootNamespace = our_site_asp_net
-build_property.ProjectDir = C:\Users\URAJKOVIC\OneDrive - MATHEMA GmbH\Desktop\C#_App\our-site-asp-net\
+build_property.ProjectDir = C:\Users\urajkovic\Desktop\c#app\our-site-asp-net\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\URAJKOVIC\OneDrive - MATHEMA GmbH\Desktop\C#_App\our-site-asp-net
+build_property.MSBuildProjectDirectory = C:\Users\urajkovic\Desktop\c#app\our-site-asp-net
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/Users/Create.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Areas/Admin/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/Users/Edit.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Areas/Admin/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/Users/Index.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Areas/Admin/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Account/Details.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Account/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Account/Login.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Blog/Blog.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Blog/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Blog/CreateBlog.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Blog/CreateBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDcmVhdGVCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Blog/Edit.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Blog/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Employee/Add.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Employee/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Employee/Index.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Employee/View.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Employee/View.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Home/Blog.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Home/CreateNewProfile.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/CreateNewProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVOZXdQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Home/Datenschutz.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Datenschutz.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRlbnNjaHV0ei5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Home/Index.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Home/Jobs.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Jobs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2JzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Home/Team.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Home/Team.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Jobs/CreatorPage.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Jobs/CreatorPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdG9yUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Jobs/Edit.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Jobs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Jobs/Index.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Jobs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Jobs/SingleJob.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Jobs/SingleJob.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xTaW5nbGVKb2IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Shared/Error.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/_ViewImports.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/_ViewStart.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/URAJKOVIC/OneDrive - MATHEMA GmbH/Desktop/C\#_App/our-site-asp-net/Views/Shared/_Layout.cshtml]
+[C:/Users/urajkovic/Desktop/c\#app/our-site-asp-net/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pvlwjqm933
